@@ -1,0 +1,32 @@
+[
+    {
+        "model": "GRU (L=6h)",
+        "MAE": 24.469,
+        "RMSE": 40.616,
+        "R2": 0.9928
+    },
+    {
+        "model": "GRU (L=12h)",
+        "MAE": 38.491,
+        "RMSE": 50.56,
+        "R2": 0.9889
+    },
+    {
+        "model": "GRU (L=24h)",
+        "MAE": 25.57,
+        "RMSE": 41.419,
+        "R2": 0.9926
+    },
+    {
+        "model": "Persistence Baseline",
+        "MAE": 102.712,
+        "RMSE": 139.378,
+        "R2": 0.9164
+    },
+    {
+        "model": "Linear Regression Baseline",
+        "MAE": 31.794,
+        "RMSE": 45.16,
+        "R2": 0.9912
+    }
+]

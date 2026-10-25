@@ -1,0 +1,6 @@
+model,MAE,RMSE,R2
+GRU (L=6h),24.469,40.616,0.9928
+GRU (L=12h),38.491,50.56,0.9889
+GRU (L=24h),25.57,41.419,0.9926
+Persistence Baseline,102.712,139.378,0.9164
+Linear Regression Baseline,31.794,45.16,0.9912
