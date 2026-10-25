@@ -70,3 +70,7 @@ venv.bak/
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+
+# Word lock files
+~$*
+
